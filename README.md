@@ -1,1 +1,1 @@
-android-textEditor
+androidtexteditor
